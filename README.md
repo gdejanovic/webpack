@@ -1,2 +1,2 @@
 # webpack
-Simply extended setup for using webppack with sass using minification of JavaScript and Scss
+Simply extended setup of the webpack config for using webppack with sass using minification of JavaScript and Scss
